@@ -48,3 +48,7 @@ button:hover {
   color: #000000;
   font: 300 30px/1.5 Lato, sans-serif;
   }
+
+.Welcome {
+    background-image: url("mtnbackground.jpg");
+  }
