@@ -43,3 +43,9 @@ button:hover {
   background-color: #000000;
   color: #FFFFFF;
   }
+
+.left {
+  color: #000000;
+  text-align: left;
+  font: 300 30px/1.5 Lato, sans-serif;
+  }
